@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 /*
- * Token has been generated for FREE using https://vittominacori.github.io/bep20-generator/
+ * Token has been generated for FREE using https://lgctoken.com/
  *
  * NOTE: "Contract Source Code Verified (Similar Match)" means that this Token is similar to other tokens deployed
  *  using the same generator. It is not an issue. It means that you won't need to verify your source code because of
